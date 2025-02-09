@@ -1,1 +1,13 @@
-express@4.21.2: {}
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      express:
+        specifier: ^4.21.2
+        version: 4.21.2
